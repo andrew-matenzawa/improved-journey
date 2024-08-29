@@ -1,4 +1,5 @@
-
+#Write a python program thats asks the user to input two numbers and an operator (+,-,*,/). Perform the corresponding operation
+#and print the result. Handle a case where the user tries to divide by zero and by printing an appropriate error message.
 #Make the user input both num1, num2 and the operator
 
 num1 = float(input("enter num1"))
